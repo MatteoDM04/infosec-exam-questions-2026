@@ -59,8 +59,8 @@ The user logs in the first time with full login and they have the possibility to
 The length of period has to be chosen carefully. A longer period means less security but more usability...
 
 ### Sources 
-- Questions_Martijn_Hendrik
-- 2024_Information_Security_Exam_Questions_GVdV
+- Questions_Martijn_Hendrik - cases (case 19)
+- 2024_Information_Security_Exam_Questions_GVdV (3.24)
 - IS_UG_3_6_Appl_TLS (notes)
 - <https://support.cloud86.io/hc/nl/articles/28141198052381-E-mail-beveiliging-en-spoofing-SPF-DKIM-DMARC>
 - Claude-AI for further insights. 
