@@ -46,9 +46,9 @@ To ensure security for a discussion about classified information two main aspect
 - **Information Integrity**: IPK have to be verified by the other party. Signal performs a hash function to combine IPK of both parties to form a safety number. Verification happens "out-of-band" which means keys are verified offline (without using the normal encryption).
 If the safety numbers are not checked, a MitM attack could have been done without anyone knowing it even happened. In a group, this remains pairswise, leading to bigger attack surface. 
 - **Confidentiality/Access Control**: 
-  * Someone (journalist) got unauthorised access.
-  * Single Point of Trust: Someone at Signal could have malicious intents or Signal could get compromised.
-  * Allthough Signal uses a strong end-to-end encryption, a large network attack could be launched on a specific device, taking full control of it. This would make this encryption pointless.
+    * Someone (journalist) got unauthorised access.
+    * Single Point of Trust: Someone at Signal could have malicious intents or Signal could get compromised.
+    * Allthough Signal uses a strong end-to-end encryption, a large network attack could be launched on a specific device, taking full control of it. This would make this encryption pointless.
 - **Authentication**: No verification was needed to add someone to the group chat.
 - **Audit and Accountability**: Signal uses strong E2EE so the server does not see the content of the sent messages and cannot provide audit logs.
 - **Non-repudiation**: No audit logs and signal also supports "disappearing messages" which destroys the evidence. 
