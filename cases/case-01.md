@@ -63,8 +63,8 @@ If the safety numbers are not checked, a MitM attack could have been done withou
 - <https://www.youtube.com/watch?v=PD9_djWnkgQ>
 - <https://www.youtube.com/watch?v=DXv1boalsDI>
 - <https://www.youtube.com/watch?v=9sO2qdTci-s> --> Quite advanced and not in scope of this question (I think)...
-- Claude-AI for further insights. 
 - IS_UG_3_1_Appl_Basics (notes)
+- Claude-AI for further insights. 
   
 _Status: Complete_  
 _Done by: Hann1bal20_
