@@ -57,13 +57,14 @@ If the safety numbers are not checked, a MitM attack could have been done withou
 - Use a non-public application for classied information. Use an approved private application, which uses legal compliant and tamper-proof audit logs. 
 - Provide an extra (multi-factor) verification before joining a certain conversation/group.
 - Make sure well encrypted (and not personal) systems are used for communication.
+- Public Key Infrastructure by a (private government-owned, which is already trusted here) Central Authority (hierarchy) with X.509 certificates to solve the scalability issue of out-of-band verification for large groups.  
 
 ### Sources
 - <https://www.youtube.com/watch?v=PD9_djWnkgQ>
 - <https://www.youtube.com/watch?v=DXv1boalsDI>
 - <https://www.youtube.com/watch?v=9sO2qdTci-s> --> Quite advanced and not in scope of this question (I think)...
 - Claude-AI for further insights. 
-- Maybe something from the course notes could be added, but I am not sure what.  
+- IS_UG_3_1_Appl_Basics (notes)
   
 _Status: Complete_  
 _Done by: Hann1bal20_
