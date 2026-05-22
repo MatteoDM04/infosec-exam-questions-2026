@@ -34,4 +34,4 @@ thousands of fake alerts). Losing an alert in thousands of other alerts is
 a big security risk for a lot of attacks. This is why prevention will always
 be more important than detection.
 **source**
-IS_UG_3_7_Appl_System slide 77-80 + gemini
+IS_UG_3_7_Appl_System slide 42 + 77-80 + 92 + Gemini
