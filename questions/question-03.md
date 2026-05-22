@@ -21,3 +21,5 @@ For a hash algorithm to be **"CPU-friendly"** and **"ASIC-resistant,"** it shoul
 ### Alternative Algorithms
 
 *   **Argon2:** Winner of the Password Hashing Competition. It is specifically designed to be ASIC-resistant by maximizing the **"Time-Memory Trade-off"**. If an attacker attempts to use less memory, their computational cost increases exponentially, leaving virtually no room for ASIC optimization.
+
+**source**: Blockchain slides 26-27 + Gemini
